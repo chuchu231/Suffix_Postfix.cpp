@@ -10,8 +10,7 @@ thúc bởi 1 enter. Các toán hạng, toán tử và dấu thay đổi ưu ti�
   + Dòng tiếp theo chứa giá trị tính được của biểu thức nếu hợp lệ hoặc chuỗi văn bản thông báo chi tiết về lỗi nếu ngược lại.
 
 Trong đó:
-- Các toán tử được hổ trợ gồm: cộng (+), trừ (-), nhân (*), chia (/), modulo (% - chỉ áp dụng cho số
-nguyên) và lũy thừa (^)
+- Các toán tử được hổ trợ gồm: cộng (+), trừ (-), nhân (*), chia (/), modulo (% - chỉ áp dụng cho số nguyên) và lũy thừa (^)
 - Các dấu thay đổi độ ưu tiên toán tử: “(” và “)”
 - Các toán hạng gồm: số nguyên âm/dương và số thực âm/dương
 
