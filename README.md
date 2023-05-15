@@ -6,9 +6,8 @@ thúc bởi 1 enter. Các toán hạng, toán tử và dấu thay đổi ưu ti�
 - Kiểm tra tính hợp lệ của biểu thức
 - Tính giá trị của biểu thức (nếu hợp lệ)
 - Xuất kết quả ra tập tin văn bản result.txt theo định dạng:
-o Dòng đầu chứa số 1 nếu biểu thức hợp lệ và 0 nếu ngược lại
-o Dòng tiếp theo chứa giá trị tính được của biểu thức nếu hợp lệ hoặc chuỗi văn bản
-thông báo chi tiết về lỗi nếu ngược lại.
+  + Dòng đầu chứa số 1 nếu biểu thức hợp lệ và 0 nếu ngược lại
+  + Dòng tiếp theo chứa giá trị tính được của biểu thức nếu hợp lệ hoặc chuỗi văn bản thông báo chi tiết về lỗi nếu ngược lại.
 
 Trong đó:
 - Các toán tử được hổ trợ gồm: cộng (+), trừ (-), nhân (*), chia (/), modulo (% - chỉ áp dụng cho số
